@@ -1,5 +1,6 @@
 <?php
 header('content-type:text/html;charset=utf-8');
+
 $tires=$_POST['tireqty'];
 $oil=$_POST['oilqty'];
 $sparkqty=$_POST['sparkqty'];
