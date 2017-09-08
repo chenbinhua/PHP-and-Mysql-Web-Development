@@ -10,7 +10,7 @@
 <body>
 <h1>Customer Feedback</h1>
 <p>Plese tell us what you think</p>
-<form action="/processfeedback.php" method="post">
+<form action="processfeedback.php" method="post">
     Your name:<br/>
     <input type="text" name="name" size="50"><br/><br/>
     Your email address:<br/>

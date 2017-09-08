@@ -11,7 +11,15 @@ $email=$_POST['email'];
 $feedback=$_POST['feedback'];
 
 //默认邮箱地址和主题
-$toAddress='chenbinghua@chinajzhr.com';
+$email_arrary=explode('@',$email);
+if(strstr($feedback,'shop'))
+    $toAddress='shop@example.com';
+else if(strstr($feedback,'delivery'))
+    $toAddress='delivery@example.com';
+echo $toAddress;
+$offcolor=array('sex','fuck','makelove');
+$feedback=str_replace($offcolor,'***',$feedback);
+echo $feedback;
 $subject='Feedback from web site';
 
 $mailContent='Customer name'.$name.'\n'.
@@ -21,7 +29,7 @@ $mailContent='Customer name'.$name.'\n'.
 $fromAddress='From:webserver@example.com';
 
 //发送邮件
-mail($toAddress,$subject,$mailContent,$fromAddress);
+
 ?>
 
 <!doctype html>
