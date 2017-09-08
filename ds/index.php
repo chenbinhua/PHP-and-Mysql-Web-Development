@@ -5,7 +5,7 @@
     <meta name="viewport"
           content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>Document</title>
+    <title>首页</title>
     <link rel="stylesheet" href="/ds/css/common.css">
     <link rel="stylesheet" href="/ds/css/main.css">
 </head>
@@ -400,7 +400,7 @@
 </div>
 <div class="footer">
     <p><a href="">慕课简介</a><span>|</span><a href="">慕课公告</a><span>|</span><a href="">招纳贤士</a><span>|</span><a href="">联系我们</a><span>|</span>客服热线：400-675-1234</p>
-    <p>Copyright © 2006 - 2014 慕课版权所有&nbsp;&nbsp;京ICP备09037834号&nbsp;&nbsp;京ICP证B1034-8373号&nbsp;&nbsp;某市公安局XX分局备案编号：123456789123</p>
+    <p>Copyright &copy; 2006 - 2014 慕课版权所有&nbsp;&nbsp;京ICP备09037834号&nbsp;&nbsp;京ICP证B1034-8373号&nbsp;&nbsp;某市公安局XX分局备案编号：123456789123</p>
 </div>
 
 </body>
