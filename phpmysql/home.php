@@ -1,5 +1,8 @@
 <?php
 require ('header.php');
+require ('classname.php');
+$a=new classname('called');
+$b=new classname('second');
 ?>
 <p>Welcome to the home of TLA Consulting.
 Please take some time to get to know us.<br></p>

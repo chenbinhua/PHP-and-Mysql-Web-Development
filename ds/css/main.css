@@ -113,15 +113,17 @@
 .footer p span{padding: 0 3px;}
 
 /*产品分类*/
-.products .leftArea{width:183px;}
+.products .leftArea{width:183px;margin-top: 18px;}
 .products .rightArea{width: 810px;}
 .leftArea .leftNav{background: #f3f3f3;border: 1px solid #d7d7d7;}
 .leftNav .navTitle{height: 34px;font-size: 14px;line-height: 30px;padding:2px 0;border-bottom: 1px solid #cdcdcd;text-align: center;}
 .leftNav .navCont{padding:4px 18px;border-bottom: 1px #ccc dashed;margin-bottom: -1px;}
 .navCont h3{font-size: 12px;height: 20px;}
 .navCont .navContList{line-height: 25px;}
-.navContList li{float: left;width: 50%;}
+.navContList li{float: left;width: 50%;padding-left: 8px;font: 14px/24px '新宋体';}
 .navContList li a{font-size: 12px;line-height: 25px}
+.vertical li{width: auto;float: none;}
+.vertical h3{font:14px/24px '微软雅黑' bold;padding-top: 5px;}
 .productsList{margin-top: 8px;margin-bottom: 20px;}
 .productsList .productsTitle{height: 33px;border-bottom:#ccc solid 2px ;}
 .productsList .productsTitle h3{width: 180px;padding-left:10px;font-size:16px;border-bottom:#096dba solid  2px ;height: 33px;line-height: 33px; }
@@ -134,3 +136,32 @@
 .productsList .item p{line-height: 20px;}
 .productsList .item .money{color:#d4105a;font-size: 14px;font-weight: bold;padding-top: 10px;}
 .productsList .item .start{width: 14px;height: 20px;display:inline-block;background: url("../images/icon/start.png") left center no-repeat;overflow: hidden;vertical-align:bottom;}
+
+/*筛选框*/
+.screening_box{margin-top: 18px;}
+.screening{border-bottom: 1px #ccc solid;}
+.screening dt{width: 75px;float: left;text-align: right;line-height: 32px;margin-right: 40px;color: #999;}
+.screening .limit{width: 55px;float: left;line-height: 32px;}
+.screening .limit .active{background: #1d7ad9;color: #F7F7F7;padding: 2px;}
+.screening_list{float: left;line-height: 32px;}
+.screening_ul{width: 500px;}
+.screening_ul li{float: left;width: 25%;}
+.screening_ul li a,.screening_list a{color: #1d7ad9;}
+.screening .more a{width:35px;background: url("../images/icon/arrows_bt.png")right center no-repeat;display: inline-block;line-height: 32px;}
+.options{float: left;padding-right: 9px;border: 1px solid #ccc;margin: 8px 0;margin-right: 10px;}
+.options a{color: #333;padding: 0 20px 0 10px;display: inline-block;background: url("../images/icon/arrows_bt.png")right center no-repeat; }
+
+/*送货地址*/
+.addInfo{height: 31px;border: 1px solid #d9d9d9;margin-top: 14px;background: #f5f5f5}
+.address{float: left;}
+.address .addText{float: left;line-height: 31px;padding-left: 10px;padding-right: 6px;}
+.select{border: 1px solid #ccc;float: left;height: 22px;background: #fff;line-height: 22px;padding-left: 10px;position: relative;padding-right: 20px;z-index: 111;margin-top: 4px;}
+.select h3{font-size: 12px;font-weight: normal;}
+.select span{position: absolute;background: url("../images/icon/arrows_blue.png")center center no-repeat;right: 0;top:0;height: 22px;width: 20px;}
+.select .show_select{position: absolute;left: -1px;top:22px;border: 1px solid #ccc;width: 100%;background: #fff;display: none;}
+.select .show_select li{padding-left: 10px;}
+.screenText{line-height: 31px;}
+.checked input{margin-right: 3px;}
+.checked input,.checked label{vertical-align: middle;}
+.goodsNum{padding-left: 12px;margin-right: 85px;}
+.goodsNum em{font-style: normal;color: #dc0000;}
