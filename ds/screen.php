@@ -319,265 +319,151 @@
 
         </div>
         <div class="productsList">
-            <div class="productsTitle">
-                <h3>数码影像</h3>
+
+            <div class="productsList clearfix screening_list_item">
+                <div class="item">
+                    <div class="itemCont">
+                        <div class="itemImg">
+                            <a href="">
+                                <img src="/ds/images/htc_phone.jpg" alt="">
+                            </a>
+                        </div>
+                        <p><a href="">佳能数码相机佳能数码相机佳能数码相机佳能数码相机</a></p>
+                        <p class="money">￥：899</p>
+                        <p>
+                            <a href="" class="addCar">加入购物车</a>
+                        </p>
+                    </div>
+                </div>
+                <div class="item">
+                    <div class="itemCont">
+                        <div class="itemImg">
+                            <a href="">
+                                <img src="/ds/images/htc_phone.jpg" alt="">
+                            </a>
+                        </div>
+                        <p><a href="">佳能数码相机佳能数码相机佳能数码相机佳能数码相机</a></p>
+                        <p class="money">￥：899</p>
+                        <p>
+                            <a href="" class="addCar">加入购物车</a>
+                        </p>
+                    </div>
+                </div>
+                <div class="item">
+                    <div class="itemCont">
+                        <div class="itemImg">
+                            <a href="">
+                                <img src="/ds/images/htc_phone.jpg" alt="">
+                            </a>
+                        </div>
+                        <p><a href="">佳能数码相机佳能数码相机佳能数码相机佳能数码相机</a></p>
+                        <p class="money">￥：899</p>
+                        <p>
+                            <a href="" class="addCar">加入购物车</a>
+                        </p>
+                    </div>
+                </div>
+                <div class="item">
+                    <div class="itemCont">
+                        <div class="itemImg">
+                            <a href="">
+                                <img src="/ds/images/htc_phone.jpg" alt="">
+                            </a>
+                        </div>
+                        <p><a href="">佳能数码相机佳能数码相机佳能数码相机佳能数码相机</a></p>
+                        <p class="money">￥：899</p>
+                        <p>
+                            <a href="" class="addCar">加入购物车</a>
+                        </p>
+                    </div>
+                </div>
+                <div class="item">
+                    <div class="itemCont">
+                        <div class="itemImg">
+                            <a href="">
+                                <img src="/ds/images/htc_phone.jpg" alt="">
+                            </a>
+                        </div>
+                        <p><a href="">佳能数码相机佳能数码相机佳能数码相机佳能数码相机</a></p>
+                        <p class="money">￥：899</p>
+                        <p>
+                            <a href="" class="addCar">加入购物车</a>
+                        </p>
+                    </div>
+                </div>
+                <div class="item">
+                    <div class="itemCont">
+                        <div class="itemImg">
+                            <a href="">
+                                <img src="/ds/images/htc_phone.jpg" alt="">
+                            </a>
+                        </div>
+                        <p><a href="">佳能数码相机佳能数码相机佳能数码相机佳能数码相机</a></p>
+                        <p class="money">￥：899</p>
+                        <p>
+                            <a href="" class="addCar">加入购物车</a>
+                        </p>
+                    </div>
+                </div>
+                <div class="item">
+                    <div class="itemCont">
+                        <div class="itemImg">
+                            <a href="">
+                                <img src="/ds/images/htc_phone.jpg" alt="">
+                            </a>
+                        </div>
+                        <p><a href="">佳能数码相机佳能数码相机佳能数码相机佳能数码相机</a></p>
+                        <p class="money">￥：899</p>
+                        <p>
+                            <a href="" class="addCar">加入购物车</a>
+                        </p>
+                    </div>
+                </div>
+                <div class="item">
+                    <div class="itemCont">
+                        <div class="itemImg">
+                            <a href="">
+                                <img src="/ds/images/htc_phone.jpg" alt="">
+                            </a>
+                        </div>
+                        <p><a href="">佳能数码相机佳能数码相机佳能数码相机佳能数码相机</a></p>
+                        <p class="money">￥：899</p>
+                        <p>
+                            <a href="" class="addCar">加入购物车</a>
+                        </p>
+                    </div>
+                </div>
+                <div class="item">
+                    <div class="itemCont">
+                        <div class="itemImg">
+                            <a href="">
+                                <img src="/ds/images/htc_phone.jpg" alt="">
+                            </a>
+                        </div>
+                        <p><a href="">佳能数码相机佳能数码相机佳能数码相机佳能数码相机</a></p>
+                        <p class="money">￥：899</p>
+                        <p>
+                            <a href="" class="addCar">加入购物车</a>
+                        </p>
+                    </div>
+                </div>
             </div>
-            <div class="productsList clearfix">
-                <div class="item">
-                    <div class="itemCont">
-                        <div class="itemImg">
-                            <a href="">
-                                <img src="/ds/images/htc_phone.jpg" alt="">
-                            </a>
-                        </div>
-                        <p><a href="">佳能数码相机佳能数码相机佳能数码相机佳能数码相机</a></p>
-                        <p class="money">￥：899</p>
-                        <p>
-                            评论：<span class="start"></span><span class="start"></span><span class="start"></span><span class="start"></span><span class="start"></span>
-                            <ahref="">（78条）</a>
-                        </p>
-                    </div>
-                </div>
-                <div class="item">
-                    <div class="itemCont">
-                        <div class="itemImg">
-                            <a href="">
-                                <img src="/ds/images/htc_phone.jpg" alt="">
-                            </a>
-                        </div>
-                        <p><a href="">佳能数码相机佳能数码相机佳能数码相机佳能数码相机</a></p>
-                        <p class="money">￥：899</p>
-                        <p>
-                            评论：<span class="start"></span><span class="start"></span><span class="start"></span><span class="start"></span><span class="start"></span>
-                            <ahref="">（78条）</a>
-                        </p>
-                    </div>
-                </div>
-                <div class="item">
-                    <div class="itemCont">
-                        <div class="itemImg">
-                            <a href="">
-                                <img src="/ds/images/htc_phone.jpg" alt="">
-                            </a>
-                        </div>
-                        <p><a href="">佳能数码相机佳能数码相机佳能数码相机佳能数码相机</a></p>
-                        <p class="money">￥：899</p>
-                        <p>
-                            评论：<span class="start"></span><span class="start"></span><span class="start"></span><span class="start"></span><span class="start"></span>
-                            <ahref="">（78条）</a>
-                        </p>
-                    </div>
-                </div>
-                <div class="item">
-                    <div class="itemCont">
-                        <div class="itemImg">
-                            <a href="">
-                                <img src="/ds/images/htc_phone.jpg" alt="">
-                            </a>
-                        </div>
-                        <p><a href="">佳能数码相机佳能数码相机佳能数码相机佳能数码相机</a></p>
-                        <p class="money">￥：899</p>
-                        <p>
-                            评论：<span class="start"></span><span class="start"></span><span class="start"></span><span class="start"></span><span class="start"></span>
-                            <ahref="">（78条）</a>
-                        </p>
-                    </div>
-                </div>
-                <div class="item">
-                    <div class="itemCont">
-                        <div class="itemImg">
-                            <a href="">
-                                <img src="/ds/images/htc_phone.jpg" alt="">
-                            </a>
-                        </div>
-                        <p><a href="">佳能数码相机佳能数码相机佳能数码相机佳能数码相机</a></p>
-                        <p class="money">￥：899</p>
-                        <p>
-                            评论：<span class="start"></span><span class="start"></span><span class="start"></span><span class="start"></span><span class="start"></span>
-                            <ahref="">（78条）</a>
-                        </p>
-                    </div>
-                </div>
-                <div class="item">
-                    <div class="itemCont">
-                        <div class="itemImg">
-                            <a href="">
-                                <img src="/ds/images/htc_phone.jpg" alt="">
-                            </a>
-                        </div>
-                        <p><a href="">佳能数码相机佳能数码相机佳能数码相机佳能数码相机</a></p>
-                        <p class="money">￥：899</p>
-                        <p>
-                            评论：<span class="start"></span><span class="start"></span><span class="start"></span><span class="start"></span><span class="start"></span>
-                            <ahref="">（78条）</a>
-                        </p>
-                    </div>
-                </div>
-                <div class="item">
-                    <div class="itemCont">
-                        <div class="itemImg">
-                            <a href="">
-                                <img src="/ds/images/htc_phone.jpg" alt="">
-                            </a>
-                        </div>
-                        <p><a href="">佳能数码相机佳能数码相机佳能数码相机佳能数码相机</a></p>
-                        <p class="money">￥：899</p>
-                        <p>
-                            评论：<span class="start"></span><span class="start"></span><span class="start"></span><span class="start"></span><span class="start"></span>
-                            <ahref="">（78条）</a>
-                        </p>
-                    </div>
-                </div>
-                <div class="item">
-                    <div class="itemCont">
-                        <div class="itemImg">
-                            <a href="">
-                                <img src="/ds/images/htc_phone.jpg" alt="">
-                            </a>
-                        </div>
-                        <p><a href="">佳能数码相机佳能数码相机佳能数码相机佳能数码相机</a></p>
-                        <p class="money">￥：899</p>
-                        <p>
-                            评论：<span class="start"></span><span class="start"></span><span class="start"></span><span class="start"></span><span class="start"></span>
-                            <ahref="">（78条）</a>
-                        </p>
-                    </div>
-                </div>
-
-
-
-
-            </div>
-        </div>
-        <div class="productsList">
-            <div class="productsTitle">
-                <h3>娱乐影音</h3>
-            </div>
-            <div class="productsList clearfix">
-                <div class="item">
-                    <div class="itemCont">
-                        <div class="itemImg">
-                            <a href="">
-                                <img src="/ds/images/htc_phone.jpg" alt="">
-                            </a>
-                        </div>
-                        <p><a href="">佳能数码相机佳能数码相机佳能数码相机佳能数码相机</a></p>
-                        <p class="money">￥：899</p>
-                        <p>
-                            评论：<span class="start"></span><span class="start"></span><span class="start"></span><span class="start"></span><span class="start"></span>
-                            <ahref="">（78条）</a>
-                        </p>
-                    </div>
-                </div>
-                <div class="item">
-                    <div class="itemCont">
-                        <div class="itemImg">
-                            <a href="">
-                                <img src="/ds/images/htc_phone.jpg" alt="">
-                            </a>
-                        </div>
-                        <p><a href="">佳能数码相机佳能数码相机佳能数码相机佳能数码相机</a></p>
-                        <p class="money">￥：899</p>
-                        <p>
-                            评论：<span class="start"></span><span class="start"></span><span class="start"></span><span class="start"></span><span class="start"></span>
-                            <ahref="">（78条）</a>
-                        </p>
-                    </div>
-                </div>
-                <div class="item">
-                    <div class="itemCont">
-                        <div class="itemImg">
-                            <a href="">
-                                <img src="/ds/images/htc_phone.jpg" alt="">
-                            </a>
-                        </div>
-                        <p><a href="">佳能数码相机佳能数码相机佳能数码相机佳能数码相机</a></p>
-                        <p class="money">￥：899</p>
-                        <p>
-                            评论：<span class="start"></span><span class="start"></span><span class="start"></span><span class="start"></span><span class="start"></span>
-                            <ahref="">（78条）</a>
-                        </p>
-                    </div>
-                </div>
-                <div class="item">
-                    <div class="itemCont">
-                        <div class="itemImg">
-                            <a href="">
-                                <img src="/ds/images/htc_phone.jpg" alt="">
-                            </a>
-                        </div>
-                        <p><a href="">佳能数码相机佳能数码相机佳能数码相机佳能数码相机</a></p>
-                        <p class="money">￥：899</p>
-                        <p>
-                            评论：<span class="start"></span><span class="start"></span><span class="start"></span><span class="start"></span><span class="start"></span>
-                            <ahref="">（78条）</a>
-                        </p>
-                    </div>
-                </div>
-                <div class="item">
-                    <div class="itemCont">
-                        <div class="itemImg">
-                            <a href="">
-                                <img src="/ds/images/htc_phone.jpg" alt="">
-                            </a>
-                        </div>
-                        <p><a href="">佳能数码相机佳能数码相机佳能数码相机佳能数码相机</a></p>
-                        <p class="money">￥：899</p>
-                        <p>
-                            评论：<span class="start"></span><span class="start"></span><span class="start"></span><span class="start"></span><span class="start"></span>
-                            <ahref="">（78条）</a>
-                        </p>
-                    </div>
-                </div>
-                <div class="item">
-                    <div class="itemCont">
-                        <div class="itemImg">
-                            <a href="">
-                                <img src="/ds/images/htc_phone.jpg" alt="">
-                            </a>
-                        </div>
-                        <p><a href="">佳能数码相机佳能数码相机佳能数码相机佳能数码相机</a></p>
-                        <p class="money">￥：899</p>
-                        <p>
-                            评论：<span class="start"></span><span class="start"></span><span class="start"></span><span class="start"></span><span class="start"></span>
-                            <ahref="">（78条）</a>
-                        </p>
-                    </div>
-                </div>
-                <div class="item">
-                    <div class="itemCont">
-                        <div class="itemImg">
-                            <a href="">
-                                <img src="/ds/images/htc_phone.jpg" alt="">
-                            </a>
-                        </div>
-                        <p><a href="">佳能数码相机佳能数码相机佳能数码相机佳能数码相机</a></p>
-                        <p class="money">￥：899</p>
-                        <p>
-                            评论：<span class="start"></span><span class="start"></span><span class="start"></span><span class="start"></span><span class="start"></span>
-                            <ahref="">（78条）</a>
-                        </p>
-                    </div>
-                </div>
-                <div class="item">
-                    <div class="itemCont">
-                        <div class="itemImg">
-                            <a href="">
-                                <img src="/ds/images/htc_phone.jpg" alt="">
-                            </a>
-                        </div>
-                        <p><a href="">佳能数码相机佳能数码相机佳能数码相机佳能数码相机</a></p>
-                        <p class="money">￥：899</p>
-                        <p>
-                            评论：<span class="start"></span><span class="start"></span><span class="start"></span><span class="start"></span><span class="start"></span>
-                            <ahref="">（78条）</a>
-                        </p>
-                    </div>
-                </div>
-
-
-
-
+            <div class="page">
+                <a href="">上一页</a>
+                <a href="">1</a>
+                <a href="">2</a>
+                <a href="">3</a>
+                <a href="">4</a>
+                <a href="">5</a>
+                <a href="">6</a>
+                <a href="">7</a>
+                <a href="">8</a>
+                <span class="apostrophes">...</span>
+                <a href="">200</a>
+                <a href="">下一页</a>
+                <span class="maxPage">共200页，到第</span>
+                    <input type="text" class="pageNum"><span class="ye">页</span>
+                    <input type="button" value="确定" class="pageBtn">
             </div>
         </div>
 

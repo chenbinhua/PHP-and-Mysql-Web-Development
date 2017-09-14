@@ -162,6 +162,19 @@
 .select .show_select li{padding-left: 10px;}
 .screenText{line-height: 31px;}
 .checked input{margin-right: 3px;}
+.checked{position: relative;top:-1px;}
 .checked input,.checked label{vertical-align: middle;}
 .goodsNum{padding-left: 12px;margin-right: 85px;}
 .goodsNum em{font-style: normal;color: #dc0000;}
+.screening_list_item{padding-left: 0.5%;}
+.screening_list_item .item{width: 33.3%}
+.addCar{line-height: 22px;border: 1px solid #c3d5e7;height: 22px;display: inline-block;padding: 0 6px 0 23px;background: url("../images/icon/shopping.png")6px center no-repeat;color: #1d7ad9 !important;}
+
+/*分页*/
+.page{text-align: center;}
+.page a{display: inline-block;height: 26px;line-height: 26px;border: 1px solid #ccc;padding: 0 12px;margin:0 2px;}
+.page span.apostrophes{padding: 0 12px;margin:0 2px;display: inline-block}
+.page span.maxPage{display: inline-block;padding-left: 14px;}
+.pageNum{border: 1px solid #ccc;height: 26px;line-height: 26px;width: 29px;text-align: center;margin-left: 4px;}
+.pageBtn{width: 45px;background: #e8e8e8;border: 1px solid #c9c9c9;padding:0 9px;height: 26px;line-height: 26px;}
+.ye{padding: 0 8px 0 6px;}
