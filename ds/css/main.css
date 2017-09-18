@@ -155,7 +155,7 @@
 .addInfo{height: 31px;border: 1px solid #d9d9d9;margin-top: 14px;background: #f5f5f5}
 .address{float: left;}
 .address .addText{float: left;line-height: 31px;padding-left: 10px;padding-right: 6px;}
-.select{border: 1px solid #ccc;float: left;height: 22px;background: #fff;line-height: 22px;padding-left: 10px;position: relative;padding-right: 20px;z-index: 111;margin-top: 4px;}
+.select{border: 1px solid #ccc;float: left;height: 22px;background: #fff;line-height: 22px;padding-left: 10px;position: relative;padding-right: 20px;z-index: 111;vertical-align: middle;}
 .select h3{font-size: 12px;font-weight: normal;}
 .select span{position: absolute;background: url("../images/icon/arrows_blue.png")center center no-repeat;right: 0;top:0;height: 22px;width: 20px;}
 .select .show_select{position: absolute;left: -1px;top:22px;border: 1px solid #ccc;width: 100%;background: #fff;display: none;}
@@ -178,3 +178,31 @@
 .pageNum{border: 1px solid #ccc;height: 26px;line-height: 26px;width: 29px;text-align: center;margin-left: 4px;}
 .pageBtn{width: 45px;background: #e8e8e8;border: 1px solid #c9c9c9;padding:0 9px;height: 26px;line-height: 26px;}
 .ye{padding: 0 8px 0 6px;}
+
+/*商品内容页*/
+.gray{background: #f0f0f0;}
+.userPosition{padding-top: 25px;margin-bottom: 15px;}
+.userPosition strong,.userPosition em,.userPosition span{font-size: 12px;}
+.userPosition em{font-style: normal;}
+.description_info{background: #fff;}
+.description{border: 1px solid #ccc;}
+.description .fl{width: 308px;}
+.description .fr{width: 689px;border-left: 1px solid #ccc;}
+.description .img_top{height: 340px;text-align: center;}
+.img_bottom{width: 265px;margin: 0 auto;padding-left: 1px;}
+.img_bottom li{float: left;width: 52px;margin-left: -1px;}
+.img_bottom li img{border: 1px solid #ccc;}
+.img_bottom li .active{border-color:#317ee7;position: relative; }
+.des_content{padding: 10px;}
+.des_content .des_title{font:bold 16px/22px "Microsoft YaHei";padding: 13px 25px;}
+.des_price{margin-bottom: 10px;}
+.des_price .dt{width: 75px;float: left;color: #666;padding-left: 25px;font-size: 12px;line-height: 24px;}
+.des_price .dd{float: left;line-height: 22px;}
+.des_price .dd .price{color: #d91313;font-size: 22px;}
+.des_price .dd .price em{font-style: normal;font-size: 12px;line-height: 14px;}
+.des_price .dd .deals{font-size: 12px;color: #666666}
+.des_price .dd .deals i{font-style: normal;background: url("../images/icon/beals.jpg")left center no-repeat;height: 18px;width: 40px;margin-right:5px;display: inline-block;padding-left: 14px;color: #ffffff;line-height: 18px;font-size: 12px;}
+
+/*送货区域*/
+.des_position{background:#f2f2f2;padding: 15px 0;color: #666;}
+.des_goods_title{line-height: 24px;padding-left: 10px;}
