@@ -230,18 +230,198 @@
                         </div>
                     </div>
                     <div class="des_price clearfix">
-                        <div class="dt">选择颜色</div>
+                        <div class="dt colorSelect">选择颜色</div>
                         <div class="dd">
-
-                            
+                            <div class="des_item des_item_active">
+                                <span class="des_color">白色</span>
+                            </div>
+                            <div class="des_item">
+                                <span class="des_color">灰色</span>
+                            </div>
+                            <div class="des_item">
+                                <span class="des_color">黑色</span>
+                            </div>
                         </div>
                     </div>
+                    <div class="des_price clearfix">
+                        <div class="dt select_spec">选择规格</div>
+                        <div class="dd">
+                            <div class="des_item">
+                                WIFI 16G
+                            </div>
+                            <div class="des_item">
+                                WIFI 16G
+                            </div>
+                            <div class="des_item">
+                                WIFI 16G
+                            </div>
+                            <div class="des_item">
+                                WIFI 16G
+                            </div>
+                            <div class="des_item">
+                                WIFI 16G
+                            </div>
+                        </div>
+                    </div>
+                    <div class="des_price clearfix">
+                        <div class="dt">数量</div>
+                        <div class="dd clearfix">
+                            <div class="des_num clearfix">
+                                <div class="leftBtn">-</div>
+                                <div class="des_input">
+                                    <input type="text"  size="4" value="1">
+                                </div>
+                                <div class="rightBtn">+</div>
+                            </div>
+                            <span class="quota">限购 <em>9</em>件</span>
+                        </div>
+                    </div>
+                </div>
+                <div class="des_select">
+                    已选择 <span>“白色|WIFI 16G”</span>
+                </div>
+                <div class="shop_buy">
+                    <a href="" class="shopping_btn"><span>加入购物车</span></a>
+                    <span class="line"></span>
+                    <a href="" class="buy_btn"><span>立即购买</span></a>
+                </div>
+                <div class="tip">
+                    注意：此商品可提供普通发票，不提供增值税发票。
                 </div>
             </div>
         </div>
     </div>
 </div>
+<div class="des_info conWidth clearfix">
+    <div class="leftArea">
+        <div class="recommend">
+            <h3 class="rt">同价位</h3>
+            <div class="item">
+                <div class="itemCont">
+                    <div class="itemImg">
+                        <a href="">
+                            <img src="/ds/images/htc_phone.jpg" alt="">
+                        </a>
+                    </div>
+                    <p><a href="">佳能数码相机佳能数码相机佳能数码相机佳能数码相机</a></p>
+                    <p class="money">￥：899</p>
+                </div>
+            </div>
+            <div class="item">
+                <div class="itemCont">
+                    <div class="itemImg">
+                        <a href="">
+                            <img src="/ds/images/htc_phone.jpg" alt="">
+                        </a>
+                    </div>
+                    <p><a href="">佳能数码相机佳能数码相机佳能数码相机佳能数码相机</a></p>
+                    <p class="money">￥：899</p>
+                </div>
+            </div>
+            <div class="item">
+                <div class="itemCont">
+                    <div class="itemImg">
+                        <a href="">
+                            <img src="/ds/images/htc_phone.jpg" alt="">
+                        </a>
+                    </div>
+                    <p><a href="">佳能数码相机佳能数码相机佳能数码相机佳能数码相机</a></p>
+                    <p class="money">￥：899</p>
+                </div>
+            </div>
+            <div class="item">
+                <div class="itemCont">
+                    <div class="itemImg">
+                        <a href="">
+                            <img src="/ds/images/htc_phone.jpg" alt="">
+                        </a>
+                    </div>
+                    <p><a href="">佳能数码相机佳能数码相机佳能数码相机佳能数码相机</a></p>
+                    <p class="money">￥：899</p>
+                </div>
+            </div>
+        </div>
+        <div class="recommend">
+            <h3 class="rt">看了最终买</h3>
+            <div class="item">
+                <div class="itemCont">
+                    <div class="itemImg">
+                        <a href="">
+                            <img src="/ds/images/htc_phone.jpg" alt="">
+                        </a>
+                    </div>
+                    <p><a href="">佳能数码相机佳能数码相机佳能数码相机佳能数码相机</a></p>
+                    <p class="money">￥：899</p>
+                </div>
+            </div>
+            <div class="item">
+                <div class="itemCont">
+                    <div class="itemImg">
+                        <a href="">
+                            <img src="/ds/images/htc_phone.jpg" alt="">
+                        </a>
+                    </div>
+                    <p><a href="">佳能数码相机佳能数码相机佳能数码相机佳能数码相机</a></p>
+                    <p class="money">￥：899</p>
+                </div>
+            </div>
+        </div>
 
+    </div>
+    <div class="rightArea">
+        <div class="des_infoContent">
+            <ul class="infoTit clearfix">
+                <li class="active"><span>商品介绍</span></li>
+                <li><span>商品评价（4995）</span></li>
+            </ul>
+            <div class="ad">
+                <a href=""><img src="/ds/images/ad1.jpg" alt=""></a>
+            </div>
+            <div class="infoText">
+                <div class="recommendTit clearfix">
+                    <h3>强烈推荐</h3>
+                    <h4>货比三家，还选</h4>
+                </div>
+                <p>
+                    现在就是买mini的好时候！换代清仓直降，但苹果品质不变！A5双核，内置Lightning闪电接口，正反可插，方便人性。小身材，炫丽的7.9英寸显示屏，
+                    7.2mm的厚度，薄如铅笔。女生包包随身携带更时尚！facetime视频通话，与密友24小时畅聊不断线。微信倾力打造，你的智能助理。苹果的牌子就不用我说了，1111补仓，存货不多哦！
+                </p>
+                <div style="height: 45px;"></div>
+                <div class="recommendTit clearfix">
+                    <h3>精美图片</h3>
+
+                </div>
+                <p>
+                    苹果iPad7.9 英寸显示屏可带来新的iPad体验，绚丽的显示屏，在每一寸画面中呈现灵动鲜活的美妙影像。
+                    苹果miniMD528CH/A采用500 万像素 iSight 摄像头，清晰记录每一次的幸福。
+                </p>
+                <div class="infoImg">
+                    <img src="/ds/images/apple.jpg" alt="">
+                </div>
+            </div>
+        </div>
+        <div style="height: 15px;"></div>
+        <div class="des_infoContent">
+            <h3 class="shopReTit">商品评价</h3>
+            <div class="scoreBox clearfix">
+                <div class="scoreNum">
+                    <span>4.7</span>分
+                </div>
+                <div class="scoreSpeed">
+                    <ul class="clearfix">
+                        <li class="speed1">非常不满意</li>
+                        <li class="speed2">不满意</li>
+                        <li class="speed3">一般</li>
+                        <li class="speed4">满意</li>
+                        <li class="speed5">非常满意</li>
+                    </ul>
+                    <div class="scoreTip">4.7 <i></i></div>
+                    <p>共18939位慕课网友参与评分</p>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
 <div class="footer">
     <p><a href="">慕课简介</a><span>|</span><a href="">慕课公告</a><span>|</span><a href="">招纳贤士</a><span>|</span><a href="">联系我们</a><span>|</span>客服热线：400-675-1234</p>
     <p>Copyright &copy; 2006 - 2014 慕课版权所有&nbsp;&nbsp;京ICP备09037834号&nbsp;&nbsp;京ICP证B1034-8373号&nbsp;&nbsp;某市公安局XX分局备案编号：123456789123</p>
