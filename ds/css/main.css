@@ -135,7 +135,7 @@
 .item a:hover{text-decoration: underline;}
 .item p{line-height: 20px;}
 .item .money{color:#d4105a;font-size: 14px;font-weight: bold;padding-top: 10px;}
-.item .start{width: 14px;height: 20px;display:inline-block;background: url("../images/icon/start.png") left center no-repeat;overflow: hidden;vertical-align:bottom;}
+.start{width: 14px;height: 20px;display:inline-block;background: url("../images/icon/start.png") left center no-repeat;overflow: hidden;vertical-align:bottom;}
 
 /*筛选框*/
 .screening_box{margin-top: 18px;}
@@ -257,6 +257,7 @@
 
 /*商品评价*/
 .shopReTit{font:bold 14px/38px "宋体";text-indent: 10px;color: #666;}
+.scoreBox{margin-bottom: 54px;}
 .scoreNum{float: left;width: 108px;font:18px/25px "Microsoft YaHei","微软雅黑";color: #66667d;margin-top: 17px}
 .scoreNum span{font-size:50px;color: #ff8c00;padding-left: 8px;}
 .scoreSpeed{width: 450px;height: 16px;background: #bdbdbd;color: #f3f3f3;float: left;line-height: 16px;font-size: 12px;margin-top: 8px;position:relative;}
@@ -270,3 +271,59 @@
 .scoreSpeed ul .speed5{width: 114px;}
 .scoreTip{position:absolute;left:90%;top:-21px;text-align: center;width: 25px;height: 14px;background: #bdbdbd;color: #f3f3f3;}
 .scoreTip i{border-width:3px 6px 6px 6px;border-style: solid dashed dashed dashed;border-color: #bdbdbd transparent transparent transparent; width: 0;height: 0;}
+
+/*商品满意度*/
+.review-table{height: 32px;background: #f2f2f2;}
+.review{line-height: 32px;padding-left: 20px;}
+.review li{float: left;margin-right: 40px;}
+.review li a{display:inline-block;height: 29px;padding: 0 5px;}
+.review li a.active{color: #317ee7;border-bottom: solid 3px #317ee7;font-weight: bold;}
+.review-sort{line-height: 20px;text-align: right;padding-right: 8px;padding-top: 5px;}
+.review-sort a{display:inline-block;background: url("../images/icon/arrowbt.png")58px center no-repeat;padding:0 20px 0 6px;border: solid 1px #ccc;}
+.review-list{padding-top: 18px;margin-bottom: 10px;}
+.review-head{width: 170px;}
+.review-user{width: 60px;text-align: center;margin-left: 40px;}
+.review-user img{width: 60px;height: 60px;display: block;padding-bottom: 4px;}
+.review-user p{line-height: 20px;}
+.review-cont{padding-left: 170px;}
+.review-start{height: 30px;}
+.review-start .start-text{padding-left: 13px;line-height: 20px;font-weight: bold;}
+.review-cont p{line-height: 24px;}
+
+/*商品满意度分页*/
+.des_infoContent .page{padding-left: 180px;}
+
+/*购物车*/
+.buy_area{margin-bottom: 20px;border: solid 1px #ccc;}
+.progress{float: right;width: 400px;height: 59px;margin-right: 50px;padding-top: 14px;}
+.progress img{width: 400px;height: 59px;}
+.buy_address{margin-top: 10px;}
+.buy_address h3{display: inline-block;width:100%;background: #f4f4f4;height: 30px;line-height: 30px;font-size: 16px;text-indent: 12px;color: #444;}
+.area_address{margin-left: 30px;margin-top: 25px;}
+.address{padding-left: 30px;}
+.address_list{margin-top: 25px;}
+.address_list li{height: 24px;margin-bottom: 10px;line-height: 24px;}
+.address_list input{height: 22px;border: 1px solid #ccc;padding-left: 10px;}
+.address_list em{font-style: normal;color: #dc0000;margin-right: 8px;}
+.address_list span{padding:0 8px;}
+.address_list .button{height: 28px;margin:13px 0 15px;padding-left: 8px;}
+.address_list .button input{width: 115px;height: 28px;background: #4493fc;text-align: center;padding: 0;color: #F7F7F7;font-size: 16px;line-height: 28px;}
+.address_list .radio{vertical-align:middle; margin-top:-2px;margin-right: 8px;}
+.back_buy{float: right;font-size: 12px;font-family: "宋体";padding-right: 33px;color: #1d7ad9;}
+.car_head{padding-top: 6px;border-bottom: solid 1px #ccc;}
+.car_item{float: left;line-height: 28px;width: 130px;}
+.car_with{width: 440px;margin-left: 30px;}
+.car_info img{width: 81px;height: 100px;display: block;float: left;}
+.car_info_con{float: left;padding-left: 8px;}
+.car_cont .car_item{padding-top:12px;}
+.car_cont .color{color: #dc0000;}
+.car_message{color: #1d7ad9;border-top: solid #ccc 1px;line-height: 40px;padding-left: 30px;margin-bottom: 12px;}
+.exclamation{padding-left: 30px;line-height: 33px;}
+.exclamation i{font-style: normal;width: 12px;height: 12px;display: inline-block;background: url("../images/icon/excalam.jpg") left center no-repeat;margin-right: 10px;}
+.exclamation span{display: inline-block;color: #dc0000;}
+
+/*订单提交*/
+.car_count{float: right;margin-right: 25px;}
+.car_rmb{margin-top: 23px;line-height: 58px;font-size: 16px;color: #bdbdbd;}
+.car_rmb span{font-size: 25px;color: #dc0000;}
+.commit{height: 33px;width: 165px;background: #dc0000;color: #FFF;margin-bottom: 29px;}

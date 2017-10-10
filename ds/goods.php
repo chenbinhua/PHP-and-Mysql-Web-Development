@@ -419,6 +419,72 @@
                     <p>共18939位慕课网友参与评分</p>
                 </div>
             </div>
+            <div class="review-table clearfix">
+                <ul class="review clearfix fl">
+                    <li><a href="" class="active">全部</a></li>
+                    <li><a href="">满意&#40;17763&#41;</a></li>
+                    <li><a href="">一般&#40;223&#41;</a></li>
+                    <li><a href="">不满意&#40;22&#41;</a></li>
+                </ul>
+                <div class="review-sort fr">
+                    <a href="" class="sort-time">时间排序</a>
+                    <a href="" class="sort-recommend">推荐排序</a>
+                </div>
+            </div>
+            <div class="review-list clearfix">
+                <div class="review-head fl">
+                    <div class="review-user">
+                        <img src="/ds/images/user.jpg" alt="">
+                        <p>61***42</p>
+                        <p>金色会员</p>
+                    </div>
+                </div>
+                <div class="review-cont">
+                    <div class="review-start">
+                        <span class="start"></span><span class="start"></span><span class="start"></span><span class="start"></span><span class="start"></span><span class="start-text">5.6分&nbsp;满意</span>
+                    </div>
+                    <p>
+                        挺不错的，信赖慕课挺不错的，信赖慕课挺不错的，信赖慕课挺不错的，信赖慕课挺不错的，=信赖慕
+                    <p>
+                        <a href="">顶&#40;44&#41;</a>
+                        <a href="">踩&#40;44&#41;</a>
+                    </p>
+                </div>
+            </div>
+            <div class="review-list clearfix">
+                <div class="review-head fl">
+                    <div class="review-user">
+                        <img src="/ds/images/user.jpg" alt="">
+                        <p>61***42</p>
+                        <p>金色会员</p>
+                    </div>
+                </div>
+                <div class="review-cont">
+                    <div class="review-start">
+                        <span class="start"></span><span class="start"></span><span class="start"></span><span class="start"></span><span class="start"></span><span class="start-text">5.6分&nbsp;满意</span>
+                    </div>
+                    <p>
+                        挺不错的，信赖慕课挺不错的，信赖慕课挺不错的，信赖慕课挺不错的，信赖慕课挺不错的，=信赖慕
+                    <p>
+                        <a href="">顶&#40;44&#41;</a>
+                        <a href="">踩&#40;44&#41;</a>
+                    </p>
+                </div>
+            </div>
+            <div class="page">
+                <a href="">上一页</a>
+                <a href="">1</a>
+                <a href="">2</a>
+                <a href="">3</a>
+                <a href="">4</a>
+                <a href="">5</a>
+                <span class="apostrophes">...</span>
+                <a href="">200</a>
+                <a href="">下一页</a>
+                <span class="maxPage">到第</span>
+                <input type="text" class="pageNum"><span class="ye">页</span>
+                <input type="button" value="确定" class="pageBtn">
+            </div>
         </div>
     </div>
 </div>
